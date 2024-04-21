@@ -1,9 +1,18 @@
-Challenge ONE
-Principiante en programación
+Challenge ONE Principiante en programación
 Sprint 01: Construye un encriptador de texto con Javascript
 
 Descripción
 ¡Bienvenidas y bienvenidos a nuestro primer desafío!
+
+Elementos principales de la página
+1- Título de su sitio web
+2- Campo para el texto que va a ser encriptado/desencriptado
+3- Un botón para encriptar
+4- Un botón para desencriptar
+5- Área para mostrar el texto encriptado/desencriptado.
+
+Extra!
+Un rodapie con los datos de la persona que desarrolló el sitio web!
 
 Durante estas cuatro semanas, vamos a trabajar en una aplicación que encripta textos, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
 
