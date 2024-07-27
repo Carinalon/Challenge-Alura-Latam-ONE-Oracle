@@ -103,7 +103,7 @@ main {
 .section__output {
     display: flex;
     flex-direction: column;
-    position: relative;
+    position: absolute;
     width: 400px;
     height: 740px;
     right: 250px;
